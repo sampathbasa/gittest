@@ -1,3 +1,3 @@
-## This is the Git tutorials by sampath
+## This is the amazing Git tutorials by sampath
 ## We learn from krish  tutorials
-## this is the dev commit
+## change by dev2
